@@ -1,0 +1,4 @@
+interface:
+  display_name: "商家产品发布稿"
+  short_description: "把产品需求整理成面向商家的发布稿、配图计划和发布交接包"
+  default_prompt: "使用 $merchant-release-writer 把这份产品需求整理成面向商家的发布稿，并完成配图与质量检查。"

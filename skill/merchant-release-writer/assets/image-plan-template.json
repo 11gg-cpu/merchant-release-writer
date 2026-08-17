@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "images": [
+    {
+      "id": "image-01",
+      "purpose": "帮助商家定位入口",
+      "source": "",
+      "placement_after_heading": "如何使用",
+      "caption": "",
+      "required": true,
+      "redaction_checked": false
+    }
+  ]
+}
